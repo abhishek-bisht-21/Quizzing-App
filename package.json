@@ -1,0 +1,20 @@
+{
+  "name": "quizzing-app",
+  "version": "1.0.0",
+  "description": "- Admin should be allowed to add questions (MCQ, single answer)\r - Admin should be allowed to move to the next questions\r - Admin should be allowed to show the leaderboard to everyone\r - Users should be allowed to answer the questions\r - Users just need to poll the server for the next question, no need for it to be realtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishek-bisht-21/Quizzing-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishek-bisht-21/Quizzing-App/issues"
+  },
+  "homepage": "https://github.com/abhishek-bisht-21/Quizzing-App#readme",
+  "dependencies": {}
+}
