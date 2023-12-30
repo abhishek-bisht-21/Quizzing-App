@@ -1,4 +1,4 @@
-### Build a simple quizzing ap similar to menti meter
+### Build a simple quizzing app similar to menti meter
 
 ## Features:
 
